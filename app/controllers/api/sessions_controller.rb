@@ -1,12 +1,2 @@
-class SessionsController < ApplicationController
-
-    def create
-    
-    end
-
-    def destroy
-
-    end
-
-
+class Api::SessionsController < ApplicationController
 end
